@@ -5,14 +5,14 @@
 
 ## Page demo
 
-- [Dashboard](https://minimal-kit-react.vercel.app/dashboard/app)
-- [Users](https://minimal-kit-react.vercel.app/dashboard/user)
-- [Product](https://minimal-kit-react.vercel.app/dashboard/products)
-- [Blog](https://minimal-kit-react.vercel.app/dashboard/blog)
-- [Login](https://minimal-kit-react.vercel.app/login)
-- [Not Found](https://minimal-kit-react.vercel.app/404)
+- [Dashboard](https://noeffortnomoney.github.io/dashboard/app)
+- [Users](https://noeffortnomoney.github.io/dashboard/user)
+- [Product](https://noeffortnomoney.github.io/dashboard/products)
+- [Blog](https://noeffortnomoney.github.io/dashboard/blog)
+- [Login](https://noeffortnomoney.github.io/login)
+- [Not Found](https://noeffortnomoney.github.io/404)
 
-## Getting started
+## Getting started - Installation
 
 - Recommended `node js 16.x` and `npm 6+`. (suggestion v16.15.0)
 - Install dependencies: `npm install` / `yarn install`
