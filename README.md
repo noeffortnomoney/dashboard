@@ -5,12 +5,7 @@
 
 ## Page demo
 
-- [Dashboard](https://noeffortnomoney.github.io/dashboard/app)
-- [Users](https://noeffortnomoney.github.io/dashboard/user)
-- [Product](https://noeffortnomoney.github.io/dashboard/products)
-- [Blog](https://noeffortnomoney.github.io/dashboard/blog)
-- [Login](https://noeffortnomoney.github.io/login)
-- [Not Found](https://noeffortnomoney.github.io/404)
+@@ [Dashboard](https://noeffortnomoney.github.io/dashboard/)
 
 ## Getting started - Installation
 
