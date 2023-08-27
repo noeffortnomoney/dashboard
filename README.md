@@ -1,9 +1,6 @@
-## > React Admin Dashboard made with Material-UI components and React.
-
-![license](https://img.shields.io/badge/license-MIT-blue.svg)
+## > `CLONE` React Admin Dashboard made with Material-UI components and React.
 
 ![preview](public/assets/preview.jpg)
-
 
 
 ## Page demo
